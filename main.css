@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #202124;
+    /* background-color: #fff;
+    vertical-align: top; */
+}
+
+h4{
+    display: inline-block;
+    color: #fff;
+}
+
+.item-title{
+    color: #fff;
+    font-size: 25px;
+}
+
+hr{
+   margin: 0 auto;
+   border-color: #808080;
+   height: 1px;
+}
+
+i.fa{
+    color: #bb86fc;
+    padding: 10px;
+}
+
+.pb100{
+    width: 100%;
+}
+
+.pb80{
+    width: 80%;
+}
+
+.pb60{
+    width: 60%;
+}
+
+.contaner{
+    width: 98%;
+    padding: 1% ;
+}
+
+.left{
+    background-color: #303134;
+    width: 25%;
+    /* height: 450px; */
+    margin: 0.5%;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 3px;
+}
+
+/* #profile{
+    height: 300px;
+} */
+
+#profile img{
+    width: 100%;
+    border-radius: 3px 3px 0;
+    position: relative;
+    display: inline-block;
+}
+
+#profile p{
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    bottom: 40px;
+   padding: 10px 0;
+}
+
+.aside-item{
+    padding: 15px;
+    color: #fff;
+    margin: 5px 0 15px;
+}
+
+
+.progress-box{
+    background-color: #eee;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.progress-bar{
+    background-color: #bb86fc;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.right{
+    width: 72%;
+    margin: 0.5%;
+    display: inline-block;
+}
+
+.right div{
+    background-color: #303134;
+    /* height: 350px; */
+    margin-bottom: 2%;
+    border-radius: 3px;
+}
+
+.right-side{
+    padding: 15px;
+    color: #fff;
+}
+
+.right-side .header{
+    margin-top: 20px;
+}
+
+.lable{
+    background-color: #bb86fc;
+    border-radius: 5px;
+    padding: 3px 5px;
+}
+
+.footer{
+    background-color: #bb86fc;
+    width: 100%;
+    height: 20px;
+    padding: 10px 0;
+    text-align: center;
+
+}
+
+.footer a{
+    color: #fff;
+}
